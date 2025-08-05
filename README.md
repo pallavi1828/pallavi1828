@@ -1,39 +1,87 @@
-<h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">Highly motivated and detail-oriented Computer Science Engineering student seeking to leverage strong technical skills, gain industry exposure and a collaborative spirit to contribute to a dynamic team environment, and grow as a full-stack developer.</h3>
+<h2 align="center">Hi there 👋, I'm Pallavi Kumar</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi1828&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi1828" /> </p>
+🎓 Final-year Computer Science Engineering student seeking to leverage strong technicalskills and gain industry exposure   
+🛠️ Backend Developer | 💡 Creative Technologist  
+🔗 Profile: [GitHub](https://github.com/pallavi1828/)  
+💻 Passionate about clean backend systems, full-stack development & sustainable tech  
+🤖 Exploring AI-powered chatbots, secure APIs, and modern web frameworks  
+🌍 I believe in tech that empowers people and the planet  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi1828" alt="pallavi1828" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Carbon Footprint Monitoring System](https://github.com/pallavi1828/carbontracker)
+### 🌐 Socials
 
-- 🌱 I’m currently learning **Spring boot (JWT, Maven) PostgreSQL and MongoDB React**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/k-pallavi18/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:pallavikumar028@gmail.com)
 
-- 👯 I’m looking to collaborate on [Online Medical Management System](https://github.com/pallavi1828/Online-medical-management-system)
+---
 
-- 👨‍💻 All of my projects are available at [https://68588aa7abe1d4cfa83dc357--jazzy-twilight-3b628f.netlify.app/](https://68588aa7abe1d4cfa83dc357--jazzy-twilight-3b628f.netlify.app/)
+### 💻 Tech Stack
 
-- 👨‍💻Work Experience At Intersect India Pvt Ltd [https://drive.google.com/file/d/1XSzYrIDXdjyqIvuLK-kcIPwFwCCgPayl/view?usp=sharing](https://drive.google.com/file/d/1XSzYrIDXdjyqIvuLK-kcIPwFwCCgPayl/view?usp=sharing)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-20232A?style=flat&logo=express&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-- 💬 Ask me about **Building full-stack apps with React & Spring Boot Creating RESTful APIs and connecting them to the frontend JWT Authentication and Role-based access control Using Supabase and IPFS for modern web integrations**
+---
 
-- 📫 How to reach me **pallavikumar028@gmail.com**
+### 📊 GitHub Stats
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi1828&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi1828&layout=compact&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/k-pallavi18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/k-pallavi18/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_._.pallavi._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._.pallavi._/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/22btrei008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/22btrei008" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/pallavi-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pallavi-k/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🏆 GitHub Trophies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavi1828&show_icons=true&locale=en&layout=compact" alt="pallavi1828" /></p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=pallavi1828&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavi1828&show_icons=true&locale=en" alt="pallavi1828" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi1828&" alt="pallavi1828" /></p>
+### 🔥 Top Projects
+
+- 🚀 [Carbon Tracker](https://github.com/pallavi1828/carbontracker)
+- 🧠 [Online Medical Management System](https://github.com/pallavi1828/Online-medical-management-system)
+- 📝 [To-do AI Chatbot](https://github.com/pallavi1828/To-Do-List)
+
+---
+
+### 🙋‍♀️ Ask Me About
+
+- Backend Development (Java, Python, Node.js)
+- Frontend (React, Vue, Tailwind)
+- APIs and Integration
+- Flask and Spring Boot
+- Open Source & GitHub Workflows
+
+---
+
+### 📚 Currently Learning
+
+- Spring Boot
+- React with GSAP
+- Supabase
+- Solidity + IPFS for blockchain
+- AI integrations for web
+
+---
+
+### 📄 Resume | 📬 Contact
+
+- 📫 Email: pallavikumar028@gmail.com  
+- 🧾 [View My Resume](https://drive.google.com/drive/my-drive)  
+- 🌐 [Portfolio Website](https://68588aa7abe1d4cfa83dc357--jazzy-twilight-3b628f.netlify.app/)  
+- 📝 [LinkedIn Profile](https://www.linkedin.com/in/k-pallavi18/)  
+
+---
+
